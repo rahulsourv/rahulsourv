@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="110" viewBox="0 0 1000 110" role="img">
+<defs>
+<linearGradient id="tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#161b22"/><stop offset="1" stop-color="#11161d"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<linearGradient id="amber" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#f97316"/></linearGradient>
+<linearGradient id="violet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity="0.045"/></pattern>
+</defs>
+
+<g clip-path="url(#fclip)">
+  <rect width="1000" height="110" fill="url(#fbg)"/><rect width="1000" height="110" fill="url(#grid)"/>
+  <circle cx="900" cy="30" r="90" fill="#22d3ee" opacity="0.30" filter="url(#blur)"/>
+</g>
+<rect x="1" y="1" width="998" height="108" rx="24" fill="none" stroke="#ffffff" stroke-opacity="0.14"/>
+<text x="40" y="52" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" fill="#e6edf3" text-anchor="start" >Thanks for stopping by.</text>
+<text x="40" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="400" fill="#c9d1d9" text-anchor="start" >Let's build something great together.</text>
+<path d="M780 70 q20 -22 40 0 t40 0 t40 0 t40 0" fill="none" stroke="url(#acc)" stroke-width="3" stroke-linecap="round">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-40 0" dur="2.4s" repeatCount="indefinite"/></path>
+
+</svg>
