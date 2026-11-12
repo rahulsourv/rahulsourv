@@ -5,12 +5,12 @@
 -->
 
 <p align="left">
-  <img src="assets/banner.svg" width="100%" alt="Rahul Sourv — Full Stack Developer. React, Node.js, Express, MongoDB. Open to internships.">
+  <img src="assets/banner.svg" width="100%" alt="Rahul Sourv — Full Stack Developer. React, Node.js, Express, MongoDB. Open to Opportunities">
   <img src="assets/about.svg" width="100%" alt="About Rahul: B.Tech IT student at RCC Institute of Information Technology, Kolkata. Open to internships and collaborations.">
   <img src="assets/stack.svg" width="100%" alt="Tech stack: Java, JavaScript, HTML5, CSS3, React, Tailwind CSS, Node.js, Express, Postman, MongoDB, MySQL, Git, GitHub, VS Code, npm, Vercel. Auth with JWT and bcrypt. Core CS: DSA, OOP, OS, DBMS.">
   <a href="https://github.com/rahulsourv/YOUR-HEXA-REPO"><img src="assets/project-hexa.svg" width="49.5%" alt="Hexa Global Placement — hospitality recruitment platform built with React, Node.js, Express, MongoDB and Tailwind CSS"></a>
   <a href="https://github.com/rahulsourv/YOUR-DAYMARK-REPO"><img src="assets/project-daymark.svg" width="49.5%" alt="Daymark — full-stack digital journal app built with React, Node.js, Express, MongoDB and Tailwind CSS"></a>
-  <a href="https://YOUR-IMEET-WEBSITE.com"><img src="assets/project-imeet.svg" width="100%" alt="iMeet — departmental fest website, Tech Lead, in progress"></a>
+  <a href="https://imeet-1.vercel.app/"><img src="assets/project-imeet.svg" width="100%" alt="iMeet — departmental fest website, Tech Lead, in progress"></a>
   <img src="assets/leetcode.svg" width="49.5%" alt="150+ LeetCode problems solved">
   <img src="assets/principles.svg" width="49.5%" alt="How I build: clean maintainable code, reusable components, ship then iterate">
   <img src="assets/learning.svg" width="49.5%" alt="Currently learning: System Design, Advanced DSA, Scalable Backend Architecture">
