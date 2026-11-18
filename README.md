@@ -5,7 +5,7 @@
 -->
 
 <p align="left">
-  <img src="assets/banner.svg" width="100%" alt="Rahul Sourv — Full Stack Developer. React, Node.js, Express, MongoDB. Open to Opportunities">
+  <img src="assets/banner.svg" width="100%" alt="Rahul Sourv — Software Developer. React, Node.js, Express, MongoDB. Open to Opportunities">
   <img src="assets/about.svg" width="100%" alt="About Rahul: B.Tech IT student at RCC Institute of Information Technology, Kolkata. Open to internships and collaborations.">
   <img src="assets/stack.svg" width="100%" alt="Tech stack: Java, JavaScript, HTML5, CSS3, React, Tailwind CSS, Node.js, Express, Postman, MongoDB, MySQL, Git, GitHub, VS Code, npm, Vercel. Auth with JWT and bcrypt. Core CS: DSA, OOP, OS, DBMS.">
   <a href="https://github.com/rahulsourv/hexaglobalplacement"><img src="assets/project-hexa.svg" width="49.5%" alt="Hexa Global Placement — hospitality recruitment platform built with React, Node.js, Express, MongoDB and Tailwind CSS"></a>
